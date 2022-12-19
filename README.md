@@ -5,11 +5,11 @@ This is for my AP Literature homework.  Teacher told us to copy and paste defint
 
 Example input:
 
-![Example input](exampleinput.png)
+![Example input](example/exampleinput.png)
 
 Example output:
 
-![Example output](exampleoutput.png)
+![Example output](example/exampleoutput.png)
 Note: The text wrapping and width of the cells have to be done manually
 
 ## Requirements
